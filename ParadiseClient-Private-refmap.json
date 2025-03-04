@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "io/github/spigotrce/paradiseclientprivate/mixin/inject/ClientPlayNetworkHandlerMixin": {
+      "onGameJoin": "Lnet/minecraft/class_634;method_11120(Lnet/minecraft/class_2678;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "io/github/spigotrce/paradiseclientprivate/mixin/inject/ClientPlayNetworkHandlerMixin": {
+        "onGameJoin": "Lnet/minecraft/class_634;method_11120(Lnet/minecraft/class_2678;)V"
+      }
+    }
+  }
+}
