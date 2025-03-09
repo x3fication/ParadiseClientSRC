@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "paradiseclient-private",
+  "version": "1.0-SNAPSHOT",
+  "name": "ParadiseClient-Private",
+  "description": "The private addon for ParadiseClient",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "io.github.spigotrce.paradiseclientprivate.Main"
+    ],
+    "main": [
+      "io.github.spigotrce.paradiseclientprivate.Main"
+    ]
+  },
+  "mixins": [
+    "paradiseclient-private.mixins.json",
+    {
+      "config": "paradiseclient-private.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": "0.16.9",
+    "fabric": "*",
+    "minecraft": "1.21.4",
+    "paradiseclient-fabric": "1.21.4-3-14"
+  }
+}
