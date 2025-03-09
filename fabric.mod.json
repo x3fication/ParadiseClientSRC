@@ -10,10 +10,10 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "io.github.spigotrce.paradiseclientprivate.client.MainClient"
+      "io.github.pajeetrce.paradiseclientprivate.Main"
     ],
     "main": [
-      "io.github.spigotrce.paradiseclientprivate.Main"
+      "io.github.pajeetrce.paradiseclientprivate.Main"
     ]
   },
   "mixins": [
@@ -27,6 +27,6 @@
     "fabricloader": "0.16.9",
     "fabric": "*",
     "minecraft": "1.21.4",
-    "paradiseclient-fabric": "1.21.4-3-12"
+    "paradiseclient-fabric": "1.21.4-3-14"
   }
 }
