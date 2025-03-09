@@ -1,5 +1,7 @@
 # ParadiseClientSRC
-ParadiseClient source leak by clarity team
+ParadiseClient source leak by clarity team (clarity.gay)
+
+join us at discord.gg/disabler
 
 Paradise Client private is just an addon for the public version.
 <h1 align="center">
