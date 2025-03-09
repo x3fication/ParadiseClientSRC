@@ -11,3 +11,4 @@ Paradise Client private is just an addon for the public version.
 # Credits
 - TheMasterKitty (remapping classes)
 - AdminX (Getting the JAR file)
+- x3 & Kwenma (for annoying spigotrce lol)
