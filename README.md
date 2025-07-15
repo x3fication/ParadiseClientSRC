@@ -1,5 +1,5 @@
-# ParadiseClientSRC
-ParadiseClient source leak by clarity team (clarity.gay)
+# ParadiseClient
+ParadiseClient by clarity team (clarity.gay)
 
 join us at https://discord.gg/JKDKbfc5mu
 
